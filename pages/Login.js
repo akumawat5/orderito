@@ -8,16 +8,13 @@
 
 import React, {Fragment} from 'react';
 import {
-  SafeAreaView,
   StyleSheet,
-  ScrollView,
   View,
   TextInput,
   Image,
   TouchableOpacity,
   Text,
-  StatusBar,
-  ToastAndroid,
+  ToastAndroid
 } from 'react-native';
 import Home from './Home';
 
